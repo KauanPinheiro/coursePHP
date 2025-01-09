@@ -1,0 +1,18 @@
+    O QUE É UMA EXPRESSÃO?
+
+uma intrução de código que será avaliada e resultará em um valor.
+uma simples impressão de um texto é uma expressão .
+uma soma ou operação matemática mais complexa também.
+na programação realizaremos diversos expressões durante nosso
+código, para formar nosso software;
+
+
+    O QUE É UM OPERADOR?
+operadores são recursos que utilizamos para compor expressões
+mais comlexas
+
+alguns deles: +,-,**,/,++,>,<,>=,<=, e etc...
+
+estas operações podem matemáticas ou até mesmo comparações;
+
+a ideia principal é que um novo valor é gerado ou também um booleano pode ser retonado;
