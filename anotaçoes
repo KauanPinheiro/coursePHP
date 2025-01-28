@@ -16,3 +16,5 @@ alguns deles: +,-,**,/,++,>,<,>=,<=, e etc...
 estas operações podem matemáticas ou até mesmo comparações;
 
 a ideia principal é que um novo valor é gerado ou também um booleano pode ser retonado;
+
+
