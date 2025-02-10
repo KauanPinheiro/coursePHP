@@ -1,0 +1,1 @@
+<h2>Testando o require once</h2>
